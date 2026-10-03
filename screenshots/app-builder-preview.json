@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Shqipëria Gjatë Komunizmit · Gjimnazi Vajdin Lamaj · Klasa XI-B",
+      "hasCanvas": false,
+      "bodyTextLen": 304,
+      "bodyTextHash": "6eaa02d6ba695df759bf700c4845c6d3323dd8762dd6d786ae9c62339003cea1",
+      "bodyTextPrefix": "GJIMNAZI VAJDIN LAMAJ KLASA XI-B · PROJEKT HISTORIK Shqipëria Gj",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Shqipëria Gjatë Komunizmit · Gjimnazi Vajdin Lamaj · Klasa XI-B",
+      "hasCanvas": false,
+      "bodyTextLen": 304,
+      "bodyTextHash": "6eaa02d6ba695df759bf700c4845c6d3323dd8762dd6d786ae9c62339003cea1",
+      "bodyTextPrefix": "GJIMNAZI VAJDIN LAMAJ KLASA XI-B · PROJEKT HISTORIK Shqipëria Gj",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
